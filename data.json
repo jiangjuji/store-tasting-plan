@@ -1,0 +1,20 @@
+{
+  "meta": {
+    "title": "门店档期试吃规划",
+    "period": "",
+    "locked": false,
+    "lockedBy": null,
+    "lockedAt": null,
+    "version": 1
+  },
+  "lines": [
+    "生鲜",
+    "零食",
+    "饮料",
+    "粮油",
+    "日化"
+  ],
+  "checklist": [],
+  "stores": [],
+  "users": []
+}
