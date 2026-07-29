@@ -291,7 +291,7 @@
         {
           "id": "a7b67a0",
           "by": "蒋",
-          "updatedAt": "2026/7/29 15:35:01",
+          "updatedAt": "2026/7/29 15:35:05",
           "comments": [],
           "authorized": [],
           "attach": "会员课",
@@ -300,7 +300,12 @@
           "code": "56777",
           "product": "米酒",
           "price": "49",
-          "cost": "35"
+          "cost": "35",
+          "store": [
+            "M-扬州店",
+            "M-常州店",
+            "M-常熟店"
+          ]
         },
         {
           "id": "1dcgrya",
