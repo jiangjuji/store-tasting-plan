@@ -361,14 +361,16 @@
         {
           "id": "dhluauq",
           "by": "蒋",
-          "updatedAt": "2026/7/29 15:37:54",
+          "updatedAt": "2026/7/29 15:37:58",
           "comments": [],
           "authorized": [],
           "attach": "大超",
           "dept": "生鲜部",
           "line": "水产",
           "code": "456777",
-          "product": "一颗大番茄"
+          "product": "一颗大番茄",
+          "price": "19",
+          "cost": "-1"
         },
         {
           "id": "dnb4yai",
