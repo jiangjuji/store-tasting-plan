@@ -361,7 +361,7 @@
         {
           "id": "dhluauq",
           "by": "蒋",
-          "updatedAt": "2026/7/29 15:38:18",
+          "updatedAt": "2026/7/29 15:38:43",
           "comments": [],
           "authorized": [],
           "attach": "大超",
@@ -381,14 +381,28 @@
           "staffType": "第三方促销员",
           "promoType": "购买短促",
           "vendorWorkTime": "8小时（门店自行安排）",
-          "cartQty": "0.5车"
+          "cartQty": "1车",
+          "factoryCode": "345666",
+          "supplier": "新家园贸易",
+          "whoBears": "供应商承担",
+          "tasteTotal": "10",
+          "provideMethod": "随门店订单到店",
+          "arriveDate": "2026-07-31",
+          "supplierContact": "蒋先生",
+          "supplierPhone": "15657652019"
         },
         {
           "id": "dnb4yai",
           "by": "蒋",
-          "updatedAt": "2026/7/29 13:07:19",
+          "updatedAt": "2026/7/29 15:39:20",
           "comments": [],
-          "authorized": []
+          "authorized": [],
+          "attach": "会员课",
+          "dept": "生鲜部",
+          "line": "肉类",
+          "code": "45677",
+          "product": "M臻品牛腩",
+          "price": "119"
         },
         {
           "id": "1vulkh0",
