@@ -18,7 +18,7 @@
     {
       "id": "5ehzosx",
       "by": "蒋",
-      "updatedAt": "2026/7/29 10:21:23",
+      "updatedAt": "2026/7/29 10:21:26",
       "comments": [],
       "authorized": [],
       "dept": "生鲜部",
@@ -35,7 +35,8 @@
       "note": "一车两品",
       "factoryCode": "12223",
       "supplier": "新家园贸易",
-      "whoBears": "采购承担"
+      "whoBears": "采购承担",
+      "tasteTotal": "100"
     },
     {
       "id": "dk8kzvv",
