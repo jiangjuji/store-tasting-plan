@@ -18,7 +18,7 @@
     {
       "id": "5ehzosx",
       "by": "蒋",
-      "updatedAt": "2026/7/29 10:19:55",
+      "updatedAt": "2026/7/29 10:20:39",
       "comments": [],
       "authorized": [],
       "dept": "生鲜部",
@@ -29,7 +29,8 @@
       "cost": "59.9",
       "store": "M-扬州店",
       "staffType": "第三方促销员",
-      "promoType": "购买长促"
+      "promoType": "购买长促",
+      "vendorWorkTime": "早上8dian"
     },
     {
       "id": "dk8kzvv",
