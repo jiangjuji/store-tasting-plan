@@ -120,7 +120,15 @@
       "id": "2617",
       "name": "2617档期",
       "timeRange": "",
-      "checklist": []
+      "checklist": [
+        {
+          "id": "ntk6d2v",
+          "by": "蒋",
+          "updatedAt": "2026/7/29 13:03:29",
+          "comments": [],
+          "authorized": []
+        }
+      ]
     },
     {
       "id": "2618",
