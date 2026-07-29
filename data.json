@@ -18,14 +18,15 @@
     {
       "id": "5ehzosx",
       "by": "蒋",
-      "updatedAt": "2026/7/29 10:19:04",
+      "updatedAt": "2026/7/29 10:19:06",
       "comments": [],
       "authorized": [],
       "dept": "生鲜部",
       "line": "粮油",
       "code": "112233",
       "product": "水牛奶",
-      "price": "699"
+      "price": "699",
+      "cost": "59.9"
     },
     {
       "id": "dk8kzvv",
