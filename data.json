@@ -18,9 +18,20 @@
     {
       "id": "5ehzosx",
       "by": "蒋",
-      "updatedAt": "2026/7/29 10:21:26",
-      "comments": [],
-      "authorized": [],
+      "updatedAt": "2026/7/29 10:22:10",
+      "comments": [
+        {
+          "id": "wupxofs",
+          "author": "蒋",
+          "role": "admin",
+          "text": "厂商没货",
+          "mention": "",
+          "time": "2026/7/29 10:22:21"
+        }
+      ],
+      "authorized": [
+        "蒋"
+      ],
       "dept": "生鲜部",
       "line": "粮油",
       "code": "112233",
@@ -36,7 +47,11 @@
       "factoryCode": "12223",
       "supplier": "新家园贸易",
       "whoBears": "采购承担",
-      "tasteTotal": "100"
+      "tasteTotal": "10",
+      "provideMethod": "供应商快递至门店",
+      "arriveDate": "2026-07-31",
+      "supplierContact": "蒋先生",
+      "supplierPhone": "15657652019"
     },
     {
       "id": "dk8kzvv",
