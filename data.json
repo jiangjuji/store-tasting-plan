@@ -18,7 +18,7 @@
     {
       "id": "5ehzosx",
       "by": "蒋",
-      "updatedAt": "2026/7/29 10:53:20",
+      "updatedAt": "2026/7/29 10:53:39",
       "comments": [
         {
           "id": "wupxofs",
@@ -56,12 +56,13 @@
       "provideMethod": "供应商快递至门店",
       "arriveDate": "2026-07-31",
       "supplierContact": "蒋先生",
-      "supplierPhone": "15657652019"
+      "supplierPhone": "15657652019",
+      "attach": "会员课"
     },
     {
       "id": "dk8kzvv",
       "by": "蒋",
-      "updatedAt": "2026/7/29 10:53:22",
+      "updatedAt": "2026/7/29 10:53:41",
       "comments": [],
       "authorized": [],
       "dept": "软百部",
@@ -91,7 +92,8 @@
       "provideMethod": "供应商自带至门店",
       "arriveDate": "2026-07-31",
       "supplierContact": "蒋先生",
-      "supplierPhone": "15657652019"
+      "supplierPhone": "15657652019",
+      "attach": "大超"
     }
   ],
   "stores": [
