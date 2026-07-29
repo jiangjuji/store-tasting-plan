@@ -56,7 +56,7 @@
     {
       "id": "dk8kzvv",
       "by": "蒋",
-      "updatedAt": "2026/7/29 10:23:27",
+      "updatedAt": "2026/7/29 10:23:29",
       "comments": [],
       "authorized": [],
       "dept": "软百部",
@@ -67,7 +67,8 @@
       "cost": "39.9",
       "store": "M-常州店",
       "staffType": "第三方促销员",
-      "promoType": "购买高峰促"
+      "promoType": "购买高峰促",
+      "vendorWorkTime": "早上8点至晚上9点"
     }
   ],
   "stores": [],
