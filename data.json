@@ -18,7 +18,7 @@
     {
       "id": "5ehzosx",
       "by": "蒋",
-      "updatedAt": "2026/7/29 10:19:44",
+      "updatedAt": "2026/7/29 10:19:51",
       "comments": [],
       "authorized": [],
       "dept": "生鲜部",
@@ -26,7 +26,9 @@
       "code": "112233",
       "product": "水牛奶",
       "price": "69.9",
-      "cost": "59.9"
+      "cost": "59.9",
+      "store": "M-扬州店",
+      "staffType": "第三方促销员"
     },
     {
       "id": "dk8kzvv",
