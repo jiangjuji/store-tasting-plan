@@ -394,7 +394,7 @@
         {
           "id": "dnb4yai",
           "by": "蒋",
-          "updatedAt": "2026/7/29 15:39:45",
+          "updatedAt": "2026/7/29 15:39:48",
           "comments": [],
           "authorized": [],
           "attach": "会员课",
@@ -413,7 +413,8 @@
           "staffType": "第三方促销员",
           "promoType": "购买高峰促",
           "cartQty": "1车",
-          "factoryCode": "23445"
+          "factoryCode": "23445",
+          "supplier": "新家园贸易"
         },
         {
           "id": "1vulkh0",
