@@ -18,7 +18,7 @@
     {
       "id": "5ehzosx",
       "by": "蒋",
-      "updatedAt": "2026/7/29 10:21:06",
+      "updatedAt": "2026/7/29 10:21:17",
       "comments": [],
       "authorized": [],
       "dept": "生鲜部",
@@ -33,7 +33,8 @@
       "vendorWorkTime": "早上8点至晚上9点",
       "cartQty": "0.5车",
       "note": "一车两品",
-      "factoryCode": "12223"
+      "factoryCode": "12223",
+      "supplier": "新jiay"
     },
     {
       "id": "dk8kzvv",
