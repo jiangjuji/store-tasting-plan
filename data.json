@@ -291,7 +291,7 @@
         {
           "id": "a7b67a0",
           "by": "蒋",
-          "updatedAt": "2026/7/29 15:35:28",
+          "updatedAt": "2026/7/29 15:35:31",
           "comments": [],
           "authorized": [],
           "attach": "会员课",
@@ -314,7 +314,8 @@
           ],
           "staffType": "第三方促销员",
           "promoType": "购买短促",
-          "vendorWorkTime": "8小时（门店自行安排）"
+          "vendorWorkTime": "门店自行联系厂商确认",
+          "cartQty": "1车"
         },
         {
           "id": "1dcgrya",
