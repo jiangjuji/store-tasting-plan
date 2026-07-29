@@ -23,42 +23,56 @@
       "map": "",
       "points": [],
       "scheduleXls": null,
-      "diy": {
-        "floors": [
-          {
-            "id": "nmjzscs",
-            "name": "一层",
-            "items": [
-              {
-                "id": "l1tp2lk",
-                "product": "UJ饼干",
-                "line": "坚果糖巧",
-                "attach": "会员课",
-                "x": 25.128989413040888,
-                "y": 34.427470562488494
-              },
-              {
-                "id": "29onfdt",
-                "product": "米酒",
-                "line": "酒类",
-                "attach": "会员课",
-                "x": 54.91204408493665,
-                "y": 35.12799995732107
-              },
-              {
-                "id": "58nrwua",
-                "product": "西瓜子",
-                "line": "冷藏",
-                "attach": "大超",
-                "x": 40.84736615558435,
-                "y": 34.90490673733141
-              }
-            ],
-            "lines": [],
-            "avatars": [],
-            "texts": []
-          }
-        ]
+      "diyByPeriod": {
+        "2616": {
+          "floors": [
+            {
+              "id": "nmjzscs",
+              "name": "一层",
+              "items": [
+                {
+                  "id": "l1tp2lk",
+                  "product": "UJ饼干",
+                  "line": "坚果糖巧",
+                  "attach": "会员课",
+                  "x": 25.128989413040888,
+                  "y": 34.427470562488494
+                },
+                {
+                  "id": "29onfdt",
+                  "product": "米酒",
+                  "line": "酒类",
+                  "attach": "会员课",
+                  "x": 54.91204408493665,
+                  "y": 35.12799995732107
+                },
+                {
+                  "id": "58nrwua",
+                  "product": "西瓜子",
+                  "line": "冷藏",
+                  "attach": "大超",
+                  "x": 40.84736615558435,
+                  "y": 34.90490673733141
+                }
+              ],
+              "lines": [],
+              "avatars": [],
+              "texts": []
+            }
+          ]
+        },
+        "2625": {
+          "floors": [
+            {
+              "id": "2li5xnh",
+              "name": "一层",
+              "items": [],
+              "lines": [],
+              "avatars": [],
+              "texts": []
+            }
+          ]
+        }
       }
     },
     {
@@ -69,17 +83,19 @@
       "map": "",
       "points": [],
       "scheduleXls": null,
-      "diy": {
-        "floors": [
-          {
-            "id": "p938ama",
-            "name": "一层",
-            "items": [],
-            "lines": [],
-            "avatars": [],
-            "texts": []
-          }
-        ]
+      "diyByPeriod": {
+        "2616": {
+          "floors": [
+            {
+              "id": "p938ama",
+              "name": "一层",
+              "items": [],
+              "lines": [],
+              "avatars": [],
+              "texts": []
+            }
+          ]
+        }
       }
     },
     {
@@ -90,17 +106,19 @@
       "map": "",
       "points": [],
       "scheduleXls": null,
-      "diy": {
-        "floors": [
-          {
-            "id": "up8l1xt",
-            "name": "一层",
-            "items": [],
-            "lines": [],
-            "avatars": [],
-            "texts": []
-          }
-        ]
+      "diyByPeriod": {
+        "2616": {
+          "floors": [
+            {
+              "id": "up8l1xt",
+              "name": "一层",
+              "items": [],
+              "lines": [],
+              "avatars": [],
+              "texts": []
+            }
+          ]
+        }
       }
     },
     {
@@ -111,17 +129,19 @@
       "map": "",
       "points": [],
       "scheduleXls": null,
-      "diy": {
-        "floors": [
-          {
-            "id": "76mr5o7",
-            "name": "一层",
-            "items": [],
-            "lines": [],
-            "avatars": [],
-            "texts": []
-          }
-        ]
+      "diyByPeriod": {
+        "2616": {
+          "floors": [
+            {
+              "id": "76mr5o7",
+              "name": "一层",
+              "items": [],
+              "lines": [],
+              "avatars": [],
+              "texts": []
+            }
+          ]
+        }
       }
     },
     {
@@ -132,17 +152,19 @@
       "map": "",
       "points": [],
       "scheduleXls": null,
-      "diy": {
-        "floors": [
-          {
-            "id": "ekialtd",
-            "name": "一层",
-            "items": [],
-            "lines": [],
-            "avatars": [],
-            "texts": []
-          }
-        ]
+      "diyByPeriod": {
+        "2616": {
+          "floors": [
+            {
+              "id": "ekialtd",
+              "name": "一层",
+              "items": [],
+              "lines": [],
+              "avatars": [],
+              "texts": []
+            }
+          ]
+        }
       }
     },
     {
@@ -153,17 +175,19 @@
       "map": "",
       "points": [],
       "scheduleXls": null,
-      "diy": {
-        "floors": [
-          {
-            "id": "addgnpt",
-            "name": "一层",
-            "items": [],
-            "lines": [],
-            "avatars": [],
-            "texts": []
-          }
-        ]
+      "diyByPeriod": {
+        "2616": {
+          "floors": [
+            {
+              "id": "addgnpt",
+              "name": "一层",
+              "items": [],
+              "lines": [],
+              "avatars": [],
+              "texts": []
+            }
+          ]
+        }
       }
     },
     {
@@ -174,17 +198,19 @@
       "map": "",
       "points": [],
       "scheduleXls": null,
-      "diy": {
-        "floors": [
-          {
-            "id": "fexo7sp",
-            "name": "一层",
-            "items": [],
-            "lines": [],
-            "avatars": [],
-            "texts": []
-          }
-        ]
+      "diyByPeriod": {
+        "2616": {
+          "floors": [
+            {
+              "id": "fexo7sp",
+              "name": "一层",
+              "items": [],
+              "lines": [],
+              "avatars": [],
+              "texts": []
+            }
+          ]
+        }
       }
     },
     {
@@ -195,18 +221,29 @@
       "map": "",
       "points": [],
       "scheduleXls": null,
-      "diy": {
-        "floors": [
-          {
-            "id": "3w3macv",
-            "name": "一层",
-            "items": [],
-            "lines": [],
-            "avatars": [],
-            "texts": []
-          }
-        ]
+      "diyByPeriod": {
+        "2616": {
+          "floors": [
+            {
+              "id": "3w3macv",
+              "name": "一层",
+              "items": [],
+              "lines": [],
+              "avatars": [],
+              "texts": []
+            }
+          ]
+        }
       }
+    },
+    {
+      "id": "s8i1m9x",
+      "points": [],
+      "diyByPeriod": {},
+      "name": "M-扬州店",
+      "lines": [],
+      "cartTotal": "15",
+      "times": []
     }
   ],
   "users": [],
