@@ -124,7 +124,7 @@
         {
           "id": "ntk6d2v",
           "by": "蒋",
-          "updatedAt": "2026/7/29 13:05:07",
+          "updatedAt": "2026/7/29 13:05:14",
           "comments": [],
           "authorized": [],
           "attach": "会员课",
@@ -153,7 +153,8 @@
           "factoryCode": "55567",
           "supplier": "3455",
           "whoBears": "门店承担",
-          "tasteTotal": "10"
+          "tasteTotal": "10箱",
+          "provideMethod": "供应商直接在门店购买"
         },
         {
           "id": "h1hffhd",
