@@ -394,7 +394,7 @@
         {
           "id": "dnb4yai",
           "by": "蒋",
-          "updatedAt": "2026/7/29 15:39:56",
+          "updatedAt": "2026/7/29 15:39:59",
           "comments": [],
           "authorized": [],
           "attach": "会员课",
@@ -417,7 +417,8 @@
           "supplier": "新家园贸易",
           "whoBears": "供应商承担",
           "tasteTotal": "15",
-          "provideMethod": "门店先内转采购后补货"
+          "provideMethod": "门店先内转采购后补货",
+          "arriveDate": "2026-07-31"
         },
         {
           "id": "1vulkh0",
