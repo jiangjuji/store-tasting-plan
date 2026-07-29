@@ -14,7 +14,15 @@
     "粮油",
     "日化"
   ],
-  "checklist": [],
+  "checklist": [
+    {
+      "id": "5ehzosx",
+      "by": "蒋",
+      "updatedAt": "2026/7/29 10:18:17",
+      "comments": [],
+      "authorized": []
+    }
+  ],
   "stores": [],
   "users": []
 }
