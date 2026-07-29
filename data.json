@@ -291,22 +291,24 @@
         {
           "id": "a7b67a0",
           "by": "蒋",
-          "updatedAt": "2026/7/29 15:34:28",
+          "updatedAt": "2026/7/29 15:34:37",
           "comments": [],
           "authorized": [],
           "attach": "会员课",
           "dept": "快消部",
-          "line": "酒类"
+          "line": "酒类",
+          "code": "56777"
         },
         {
           "id": "1dcgrya",
           "by": "蒋",
-          "updatedAt": "2026/7/29 15:34:25",
+          "updatedAt": "2026/7/29 15:34:38",
           "comments": [],
           "authorized": [],
           "attach": "大超",
           "dept": "快消部",
-          "line": "冷藏"
+          "line": "冷藏",
+          "code": "334"
         },
         {
           "id": "dhluauq",
