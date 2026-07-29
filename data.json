@@ -394,7 +394,7 @@
         {
           "id": "dnb4yai",
           "by": "蒋",
-          "updatedAt": "2026/7/29 15:40:03",
+          "updatedAt": "2026/7/29 15:40:07",
           "comments": [],
           "authorized": [],
           "attach": "会员课",
@@ -419,7 +419,8 @@
           "tasteTotal": "15",
           "provideMethod": "门店先内转采购后补货",
           "arriveDate": "2026-07-31",
-          "supplierContact": "蒋先生"
+          "supplierContact": "蒋先生",
+          "supplierPhone": "15657652019"
         },
         {
           "id": "1vulkh0",
