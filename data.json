@@ -361,10 +361,12 @@
         {
           "id": "dhluauq",
           "by": "蒋",
-          "updatedAt": "2026/7/29 15:37:36",
+          "updatedAt": "2026/7/29 15:37:39",
           "comments": [],
           "authorized": [],
-          "attach": "大超"
+          "attach": "大超",
+          "dept": "生鲜部",
+          "line": ""
         },
         {
           "id": "dnb4yai",
