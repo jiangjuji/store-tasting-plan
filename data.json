@@ -124,7 +124,7 @@
         {
           "id": "ntk6d2v",
           "by": "蒋",
-          "updatedAt": "2026/7/29 13:04:47",
+          "updatedAt": "2026/7/29 13:04:52",
           "comments": [],
           "authorized": [],
           "attach": "会员课",
@@ -148,7 +148,8 @@
           "staffType": "第三方促销员",
           "promoType": "购买短促",
           "vendorWorkTime": "",
-          "cartQty": "0.5车"
+          "cartQty": "0.5车",
+          "note": "12333"
         },
         {
           "id": "h1hffhd",
