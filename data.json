@@ -14,84 +14,6 @@
     "粮油",
     "日化"
   ],
-  "checklist": [
-    {
-      "id": "5ehzosx",
-      "by": "蒋",
-      "updatedAt": "2026/7/29 11:19:36",
-      "comments": [
-        {
-          "id": "wupxofs",
-          "author": "蒋",
-          "role": "admin",
-          "text": "厂商没货",
-          "mention": "",
-          "time": "2026/7/29 10:22:21"
-        }
-      ],
-      "authorized": [
-        "蒋"
-      ],
-      "dept": "软百",
-      "line": "",
-      "code": "112233",
-      "product": "水牛奶",
-      "price": "69.9",
-      "cost": "59.9",
-      "store": [
-        "M-扬州店",
-        "M-常州店",
-        "M-常熟店",
-        "M-嘉兴店"
-      ],
-      "staffType": "第三方促销员",
-      "promoType": "购买长促",
-      "vendorWorkTime": "门店自行联系厂商确认",
-      "cartQty": "0.5车",
-      "note": "一车两品",
-      "factoryCode": "12223",
-      "supplier": "新家园贸易",
-      "whoBears": "采购承担",
-      "tasteTotal": "10",
-      "provideMethod": "供应商快递至门店",
-      "arriveDate": "2026-07-31",
-      "supplierContact": "蒋先生",
-      "supplierPhone": "15657652019",
-      "attach": "会员课"
-    },
-    {
-      "id": "dk8kzvv",
-      "by": "蒋",
-      "updatedAt": "2026/7/29 11:06:55",
-      "comments": [],
-      "authorized": [],
-      "dept": "软百部",
-      "line": "生鲜",
-      "code": "23444",
-      "product": "UJ饼干",
-      "price": "49.9",
-      "cost": "39.9",
-      "store": [
-        "M-扬州店",
-        "M-南京店",
-        "M-泰州店"
-      ],
-      "staffType": "第三方促销员",
-      "promoType": "购买高峰促",
-      "vendorWorkTime": "8小时（门店自行安排）",
-      "cartQty": "1车",
-      "note": "一车两品",
-      "factoryCode": "455666",
-      "supplier": "新家园贸易",
-      "whoBears": "门店承担",
-      "tasteTotal": "13",
-      "provideMethod": "供应商自带至门店",
-      "arriveDate": "2026-07-31",
-      "supplierContact": "蒋先生",
-      "supplierPhone": "15657652019",
-      "attach": "大超"
-    }
-  ],
   "stores": [
     {
       "id": "40myxw1",
@@ -109,5 +31,204 @@
       "times": []
     }
   ],
-  "users": []
+  "users": [],
+  "periods": [
+    {
+      "id": "2616",
+      "name": "2616档期",
+      "timeRange": "",
+      "checklist": [
+        {
+          "id": "5ehzosx",
+          "by": "蒋",
+          "updatedAt": "2026/7/29 11:19:36",
+          "comments": [
+            {
+              "id": "wupxofs",
+              "author": "蒋",
+              "role": "admin",
+              "text": "厂商没货",
+              "mention": "",
+              "time": "2026/7/29 10:22:21"
+            }
+          ],
+          "authorized": [
+            "蒋"
+          ],
+          "dept": "软百",
+          "line": "",
+          "code": "112233",
+          "product": "水牛奶",
+          "price": "69.9",
+          "cost": "59.9",
+          "store": [
+            "M-扬州店",
+            "M-常州店",
+            "M-常熟店",
+            "M-嘉兴店"
+          ],
+          "staffType": "第三方促销员",
+          "promoType": "购买长促",
+          "vendorWorkTime": "门店自行联系厂商确认",
+          "cartQty": "0.5车",
+          "note": "一车两品",
+          "factoryCode": "12223",
+          "supplier": "新家园贸易",
+          "whoBears": "采购承担",
+          "tasteTotal": "10",
+          "provideMethod": "供应商快递至门店",
+          "arriveDate": "2026-07-31",
+          "supplierContact": "蒋先生",
+          "supplierPhone": "15657652019",
+          "attach": "会员课"
+        },
+        {
+          "id": "dk8kzvv",
+          "by": "蒋",
+          "updatedAt": "2026/7/29 11:06:55",
+          "comments": [],
+          "authorized": [],
+          "dept": "软百部",
+          "line": "生鲜",
+          "code": "23444",
+          "product": "UJ饼干",
+          "price": "49.9",
+          "cost": "39.9",
+          "store": [
+            "M-扬州店",
+            "M-南京店",
+            "M-泰州店"
+          ],
+          "staffType": "第三方促销员",
+          "promoType": "购买高峰促",
+          "vendorWorkTime": "8小时（门店自行安排）",
+          "cartQty": "1车",
+          "note": "一车两品",
+          "factoryCode": "455666",
+          "supplier": "新家园贸易",
+          "whoBears": "门店承担",
+          "tasteTotal": "13",
+          "provideMethod": "供应商自带至门店",
+          "arriveDate": "2026-07-31",
+          "supplierContact": "蒋先生",
+          "supplierPhone": "15657652019",
+          "attach": "大超"
+        }
+      ]
+    },
+    {
+      "id": "2617",
+      "name": "2617档期",
+      "timeRange": "",
+      "checklist": []
+    },
+    {
+      "id": "2618",
+      "name": "2618档期",
+      "timeRange": "",
+      "checklist": []
+    },
+    {
+      "id": "2619",
+      "name": "2619档期",
+      "timeRange": "",
+      "checklist": []
+    },
+    {
+      "id": "2620",
+      "name": "2620档期",
+      "timeRange": "",
+      "checklist": []
+    },
+    {
+      "id": "2621",
+      "name": "2621档期",
+      "timeRange": "",
+      "checklist": []
+    },
+    {
+      "id": "2622",
+      "name": "2622档期",
+      "timeRange": "",
+      "checklist": []
+    },
+    {
+      "id": "2623",
+      "name": "2623档期",
+      "timeRange": "",
+      "checklist": []
+    },
+    {
+      "id": "2624",
+      "name": "2624档期",
+      "timeRange": "",
+      "checklist": []
+    },
+    {
+      "id": "2625",
+      "name": "2625档期",
+      "timeRange": "",
+      "checklist": []
+    },
+    {
+      "id": "2626",
+      "name": "2626档期",
+      "timeRange": "",
+      "checklist": []
+    },
+    {
+      "id": "2627",
+      "name": "2627档期",
+      "timeRange": "",
+      "checklist": []
+    },
+    {
+      "id": "2628",
+      "name": "2628档期",
+      "timeRange": "",
+      "checklist": []
+    },
+    {
+      "id": "2629",
+      "name": "2629档期",
+      "timeRange": "",
+      "checklist": []
+    },
+    {
+      "id": "2630",
+      "name": "2630档期",
+      "timeRange": "",
+      "checklist": []
+    },
+    {
+      "id": "2631",
+      "name": "2631档期",
+      "timeRange": "",
+      "checklist": []
+    },
+    {
+      "id": "2632",
+      "name": "2632档期",
+      "timeRange": "",
+      "checklist": []
+    },
+    {
+      "id": "2633",
+      "name": "2633档期",
+      "timeRange": "",
+      "checklist": []
+    },
+    {
+      "id": "2634",
+      "name": "2634档期",
+      "timeRange": "",
+      "checklist": []
+    },
+    {
+      "id": "2635",
+      "name": "2635档期",
+      "timeRange": "",
+      "checklist": []
+    }
+  ]
 }
