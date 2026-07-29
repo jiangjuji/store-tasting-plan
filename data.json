@@ -18,7 +18,7 @@
     {
       "id": "8bapjk1",
       "points": [],
-      "name": "M-盐城店",
+      "name": "M-扬州店",
       "lines": [
         "生鲜",
         "零食",
@@ -27,7 +27,12 @@
         "日化"
       ],
       "cartTotal": "20",
-      "times": []
+      "times": [],
+      "diy": {
+        "items": [],
+        "lines": [],
+        "avatars": []
+      }
     }
   ],
   "users": [],
