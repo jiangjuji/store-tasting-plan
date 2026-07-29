@@ -124,12 +124,14 @@
         {
           "id": "ntk6d2v",
           "by": "蒋",
-          "updatedAt": "2026/7/29 13:03:42",
+          "updatedAt": "2026/7/29 13:03:46",
           "comments": [],
           "authorized": [],
           "attach": "会员课",
           "dept": "快消部",
-          "line": "速食南北货"
+          "line": "速食南北货",
+          "code": "222344",
+          "product": "23344"
         },
         {
           "id": "h1hffhd",
