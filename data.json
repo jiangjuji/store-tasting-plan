@@ -291,7 +291,7 @@
         {
           "id": "a7b67a0",
           "by": "蒋",
-          "updatedAt": "2026/7/29 15:35:38",
+          "updatedAt": "2026/7/29 15:35:42",
           "comments": [],
           "authorized": [],
           "attach": "会员课",
@@ -318,7 +318,8 @@
           "cartQty": "1车",
           "factoryCode": "4455",
           "supplier": "新家园贸易",
-          "whoBears": "门店承担"
+          "whoBears": "门店承担",
+          "tasteTotal": "1"
         },
         {
           "id": "1dcgrya",
