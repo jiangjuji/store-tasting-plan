@@ -14,7 +14,197 @@
     "粮油",
     "日化"
   ],
-  "stores": [],
+  "stores": [
+    {
+      "id": "mco81t2",
+      "name": "M-扬州店",
+      "lines": [],
+      "cartTotal": 0,
+      "map": "",
+      "points": [],
+      "scheduleXls": null,
+      "diy": {
+        "floors": [
+          {
+            "id": "r6to57k",
+            "name": "一层",
+            "items": [],
+            "lines": [],
+            "avatars": [],
+            "texts": []
+          }
+        ]
+      }
+    },
+    {
+      "id": "timug34",
+      "name": "M-南京店",
+      "lines": [],
+      "cartTotal": 0,
+      "map": "",
+      "points": [],
+      "scheduleXls": null,
+      "diy": {
+        "floors": [
+          {
+            "id": "nmjzscs",
+            "name": "一层",
+            "items": [],
+            "lines": [],
+            "avatars": [],
+            "texts": []
+          }
+        ]
+      }
+    },
+    {
+      "id": "mcv8ktt",
+      "name": "M-常州店",
+      "lines": [],
+      "cartTotal": 0,
+      "map": "",
+      "points": [],
+      "scheduleXls": null,
+      "diy": {
+        "floors": [
+          {
+            "id": "p938ama",
+            "name": "一层",
+            "items": [],
+            "lines": [],
+            "avatars": [],
+            "texts": []
+          }
+        ]
+      }
+    },
+    {
+      "id": "3dmf63x",
+      "name": "M-常熟店",
+      "lines": [],
+      "cartTotal": 0,
+      "map": "",
+      "points": [],
+      "scheduleXls": null,
+      "diy": {
+        "floors": [
+          {
+            "id": "up8l1xt",
+            "name": "一层",
+            "items": [],
+            "lines": [],
+            "avatars": [],
+            "texts": []
+          }
+        ]
+      }
+    },
+    {
+      "id": "ipjg6rx",
+      "name": "M-嘉兴店",
+      "lines": [],
+      "cartTotal": 0,
+      "map": "",
+      "points": [],
+      "scheduleXls": null,
+      "diy": {
+        "floors": [
+          {
+            "id": "76mr5o7",
+            "name": "一层",
+            "items": [],
+            "lines": [],
+            "avatars": [],
+            "texts": []
+          }
+        ]
+      }
+    },
+    {
+      "id": "2uq8nl9",
+      "name": "M-江阴店",
+      "lines": [],
+      "cartTotal": 0,
+      "map": "",
+      "points": [],
+      "scheduleXls": null,
+      "diy": {
+        "floors": [
+          {
+            "id": "ekialtd",
+            "name": "一层",
+            "items": [],
+            "lines": [],
+            "avatars": [],
+            "texts": []
+          }
+        ]
+      }
+    },
+    {
+      "id": "08mhcfg",
+      "name": "M-无锡店",
+      "lines": [],
+      "cartTotal": 0,
+      "map": "",
+      "points": [],
+      "scheduleXls": null,
+      "diy": {
+        "floors": [
+          {
+            "id": "addgnpt",
+            "name": "一层",
+            "items": [],
+            "lines": [],
+            "avatars": [],
+            "texts": []
+          }
+        ]
+      }
+    },
+    {
+      "id": "zoqda8m",
+      "name": "M-盐城店",
+      "lines": [],
+      "cartTotal": 0,
+      "map": "",
+      "points": [],
+      "scheduleXls": null,
+      "diy": {
+        "floors": [
+          {
+            "id": "fexo7sp",
+            "name": "一层",
+            "items": [],
+            "lines": [],
+            "avatars": [],
+            "texts": []
+          }
+        ]
+      }
+    },
+    {
+      "id": "1iaefiz",
+      "name": "M-泰州店",
+      "lines": [],
+      "cartTotal": 0,
+      "map": "",
+      "points": [],
+      "scheduleXls": null,
+      "diy": {
+        "floors": [
+          {
+            "id": "3w3macv",
+            "name": "一层",
+            "items": [],
+            "lines": [],
+            "avatars": [],
+            "texts": []
+          }
+        ]
+      }
+    }
+  ],
   "users": [],
   "periods": [
     {
@@ -111,9 +301,10 @@
         {
           "id": "1dcgrya",
           "by": "蒋",
-          "updatedAt": "2026/7/29 13:07:09",
+          "updatedAt": "2026/7/29 15:34:23",
           "comments": [],
-          "authorized": []
+          "authorized": [],
+          "attach": "大超"
         },
         {
           "id": "dhluauq",
