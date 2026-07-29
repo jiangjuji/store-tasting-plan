@@ -56,7 +56,7 @@
     {
       "id": "dk8kzvv",
       "by": "蒋",
-      "updatedAt": "2026/7/29 10:23:23",
+      "updatedAt": "2026/7/29 10:23:25",
       "comments": [],
       "authorized": [],
       "dept": "软百部",
@@ -65,7 +65,8 @@
       "product": "UJ饼干",
       "price": "49.9",
       "cost": "39.9",
-      "store": "M-常州店"
+      "store": "M-常州店",
+      "staffType": "第三方促销员"
     }
   ],
   "stores": [],
