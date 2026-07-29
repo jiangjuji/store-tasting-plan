@@ -124,7 +124,7 @@
         {
           "id": "ntk6d2v",
           "by": "蒋",
-          "updatedAt": "2026/7/29 13:05:00",
+          "updatedAt": "2026/7/29 13:05:07",
           "comments": [],
           "authorized": [],
           "attach": "会员课",
@@ -152,7 +152,8 @@
           "note": "12333333",
           "factoryCode": "55567",
           "supplier": "3455",
-          "whoBears": "采购承担"
+          "whoBears": "门店承担",
+          "tasteTotal": "10"
         },
         {
           "id": "h1hffhd",
