@@ -291,7 +291,7 @@
         {
           "id": "a7b67a0",
           "by": "蒋",
-          "updatedAt": "2026/7/29 15:35:42",
+          "updatedAt": "2026/7/29 15:35:54",
           "comments": [],
           "authorized": [],
           "attach": "会员课",
@@ -319,19 +319,34 @@
           "factoryCode": "4455",
           "supplier": "新家园贸易",
           "whoBears": "门店承担",
-          "tasteTotal": "1"
+          "tasteTotal": "15",
+          "provideMethod": "供应商快递至门店",
+          "arriveDate": "2026-07-30",
+          "supplierContact": "蒋先生",
+          "supplierPhone": "15657652019"
         },
         {
           "id": "1dcgrya",
           "by": "蒋",
-          "updatedAt": "2026/7/29 15:34:46",
+          "updatedAt": "2026/7/29 15:36:42",
           "comments": [],
           "authorized": [],
           "attach": "大超",
           "dept": "快消部",
           "line": "冷藏",
           "code": "334556",
-          "product": ""
+          "product": "西瓜子",
+          "price": "39",
+          "cost": "28",
+          "store": [
+            "M-扬州店",
+            "M-南京店",
+            "M-常州店",
+            "M-常熟店",
+            "M-无锡店"
+          ],
+          "staffType": "供应商促销员",
+          "promoType": "购买短促"
         },
         {
           "id": "dhluauq",
