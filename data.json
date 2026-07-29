@@ -124,7 +124,7 @@
         {
           "id": "ntk6d2v",
           "by": "蒋",
-          "updatedAt": "2026/7/29 13:04:55",
+          "updatedAt": "2026/7/29 13:05:00",
           "comments": [],
           "authorized": [],
           "attach": "会员课",
@@ -150,7 +150,9 @@
           "vendorWorkTime": "",
           "cartQty": "0.5车",
           "note": "12333333",
-          "factoryCode": "55567"
+          "factoryCode": "55567",
+          "supplier": "3455",
+          "whoBears": "采购承担"
         },
         {
           "id": "h1hffhd",
