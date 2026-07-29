@@ -394,7 +394,7 @@
         {
           "id": "dnb4yai",
           "by": "蒋",
-          "updatedAt": "2026/7/29 15:39:39",
+          "updatedAt": "2026/7/29 15:39:43",
           "comments": [],
           "authorized": [],
           "attach": "会员课",
@@ -411,7 +411,8 @@
             "M-泰州店"
           ],
           "staffType": "第三方促销员",
-          "promoType": "购买高峰促"
+          "promoType": "购买高峰促",
+          "cartQty": "1车"
         },
         {
           "id": "1vulkh0",
