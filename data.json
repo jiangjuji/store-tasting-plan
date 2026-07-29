@@ -18,7 +18,7 @@
     {
       "id": "5ehzosx",
       "by": "蒋",
-      "updatedAt": "2026/7/29 10:20:57",
+      "updatedAt": "2026/7/29 10:21:02",
       "comments": [],
       "authorized": [],
       "dept": "生鲜部",
@@ -31,7 +31,8 @@
       "staffType": "第三方促销员",
       "promoType": "购买长促",
       "vendorWorkTime": "早上8点至晚上9点",
-      "cartQty": "1车"
+      "cartQty": "0.5车",
+      "note": "yic"
     },
     {
       "id": "dk8kzvv",
