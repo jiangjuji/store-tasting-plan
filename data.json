@@ -56,13 +56,14 @@
     {
       "id": "dk8kzvv",
       "by": "蒋",
-      "updatedAt": "2026/7/29 10:23:06",
+      "updatedAt": "2026/7/29 10:23:09",
       "comments": [],
       "authorized": [],
       "dept": "软百部",
       "line": "零食",
       "code": "23444",
-      "product": "UJ饼干"
+      "product": "UJ饼干",
+      "price": "49"
     }
   ],
   "stores": [],
