@@ -124,7 +124,7 @@
         {
           "id": "ntk6d2v",
           "by": "蒋",
-          "updatedAt": "2026/7/29 13:04:52",
+          "updatedAt": "2026/7/29 13:04:55",
           "comments": [],
           "authorized": [],
           "attach": "会员课",
@@ -149,7 +149,8 @@
           "promoType": "购买短促",
           "vendorWorkTime": "",
           "cartQty": "0.5车",
-          "note": "12333"
+          "note": "12333333",
+          "factoryCode": "55567"
         },
         {
           "id": "h1hffhd",
