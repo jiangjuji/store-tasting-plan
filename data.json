@@ -18,7 +18,7 @@
     {
       "id": "5ehzosx",
       "by": "蒋",
-      "updatedAt": "2026/7/29 10:22:10",
+      "updatedAt": "2026/7/29 10:53:07",
       "comments": [
         {
           "id": "wupxofs",
@@ -38,7 +38,11 @@
       "product": "水牛奶",
       "price": "69.9",
       "cost": "59.9",
-      "store": "M-扬州店",
+      "store": [
+        "M-扬州店",
+        "M-常熟店",
+        "M-嘉兴店"
+      ],
       "staffType": "第三方促销员",
       "promoType": "购买长促",
       "vendorWorkTime": "早上8点至晚上9点",
