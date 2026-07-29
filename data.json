@@ -85,11 +85,11 @@
         {
           "id": "dk8kzvv",
           "by": "蒋",
-          "updatedAt": "2026/7/29 11:06:55",
+          "updatedAt": "2026/7/29 13:08:03",
           "comments": [],
           "authorized": [],
-          "dept": "软百部",
-          "line": "生鲜",
+          "dept": "快消部",
+          "line": "坚果糖巧",
           "code": "23444",
           "product": "UJ饼干",
           "price": "49.9",
@@ -112,15 +112,17 @@
           "arriveDate": "2026-07-31",
           "supplierContact": "蒋先生",
           "supplierPhone": "15657652019",
-          "attach": "大超"
+          "attach": "会员课"
         },
         {
           "id": "a7b67a0",
           "by": "蒋",
-          "updatedAt": "2026/7/29 13:07:56",
+          "updatedAt": "2026/7/29 13:08:01",
           "comments": [],
           "authorized": [],
-          "attach": "会员课"
+          "attach": "会员课",
+          "dept": "快消部",
+          "line": ""
         },
         {
           "id": "1dcgrya",
