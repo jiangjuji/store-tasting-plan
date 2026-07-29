@@ -124,9 +124,12 @@
         {
           "id": "ntk6d2v",
           "by": "蒋",
-          "updatedAt": "2026/7/29 13:03:29",
+          "updatedAt": "2026/7/29 13:03:37",
           "comments": [],
-          "authorized": []
+          "authorized": [],
+          "attach": "会员课",
+          "dept": "生鲜部",
+          "line": ""
         },
         {
           "id": "h1hffhd",
