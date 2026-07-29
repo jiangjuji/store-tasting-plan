@@ -361,7 +361,7 @@
         {
           "id": "dhluauq",
           "by": "蒋",
-          "updatedAt": "2026/7/29 15:38:08",
+          "updatedAt": "2026/7/29 15:38:16",
           "comments": [],
           "authorized": [],
           "attach": "大超",
@@ -377,7 +377,9 @@
             "M-无锡店",
             "M-盐城店",
             "M-泰州店"
-          ]
+          ],
+          "staffType": "第三方促销员",
+          "promoType": "购买短促"
         },
         {
           "id": "dnb4yai",
