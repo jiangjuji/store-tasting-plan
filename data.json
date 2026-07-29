@@ -124,7 +124,7 @@
         {
           "id": "ntk6d2v",
           "by": "蒋",
-          "updatedAt": "2026/7/29 13:05:14",
+          "updatedAt": "2026/7/29 13:05:20",
           "comments": [],
           "authorized": [],
           "attach": "会员课",
@@ -154,7 +154,9 @@
           "supplier": "3455",
           "whoBears": "门店承担",
           "tasteTotal": "10箱",
-          "provideMethod": "供应商直接在门店购买"
+          "provideMethod": "供应商直接在门店购买",
+          "arriveDate": "2026-07-30",
+          "supplierContact": "蒋"
         },
         {
           "id": "h1hffhd",
