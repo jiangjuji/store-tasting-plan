@@ -56,12 +56,13 @@
     {
       "id": "dk8kzvv",
       "by": "蒋",
-      "updatedAt": "2026/7/29 10:22:50",
+      "updatedAt": "2026/7/29 10:22:53",
       "comments": [],
       "authorized": [],
       "dept": "软百部",
       "line": "粮油",
-      "code": "23444"
+      "code": "23444",
+      "product": "咖啡"
     }
   ],
   "stores": [],
