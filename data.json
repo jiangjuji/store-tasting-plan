@@ -394,7 +394,7 @@
         {
           "id": "dnb4yai",
           "by": "蒋",
-          "updatedAt": "2026/7/29 15:39:54",
+          "updatedAt": "2026/7/29 15:39:56",
           "comments": [],
           "authorized": [],
           "attach": "会员课",
@@ -416,7 +416,8 @@
           "factoryCode": "23445",
           "supplier": "新家园贸易",
           "whoBears": "供应商承担",
-          "tasteTotal": "15"
+          "tasteTotal": "15",
+          "provideMethod": "门店先内转采购后补货"
         },
         {
           "id": "1vulkh0",
