@@ -328,7 +328,7 @@
         {
           "id": "1dcgrya",
           "by": "蒋",
-          "updatedAt": "2026/7/29 15:37:26",
+          "updatedAt": "2026/7/29 15:37:29",
           "comments": [],
           "authorized": [],
           "attach": "大超",
@@ -355,7 +355,8 @@
           "tasteTotal": "12",
           "provideMethod": "供应商直接在门店购买",
           "arriveDate": "2026-07-31",
-          "supplierContact": "蒋先生"
+          "supplierContact": "蒋先生",
+          "supplierPhone": "15657652019"
         },
         {
           "id": "dhluauq",
